@@ -1,0 +1,19 @@
+h1,
+h4 {
+    color: black;
+    font-family: sans-serif;
+}
+
+p {
+    color: black;
+    font-family: fantasy;
+}
+
+ul {
+    list-style-type: circle;
+}
+body {
+    background-image: url('images/backround 1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
